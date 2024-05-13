@@ -1,4 +1,4 @@
-# Query Enhancement Through Synonyms
+# query-relaxation
 This repository stores the codebase for the Query Relaxation project as developed by Relevancy & Personalisation Team
 
 
